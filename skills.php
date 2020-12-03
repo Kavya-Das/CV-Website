@@ -11,20 +11,20 @@
     <p class="textsize">Kavya S Das</p>
   <p class="textsize2">Senior Infra Developer/ITSM Consultant</p>
     <nav class="navbar navbar-expand-lg bg-danger navbar-dark">
-        <ul class="navbar-nav" >
-          <li class="nav-item active">
-            <a class="nav-link" href="index.html">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="resume.html">Resume</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="experience.html">Experience</a>
-          </li>
-          <li class="nav-item">
-           <a class="nav-link" href="contact.html">Contact</a>
-         </li>
-        </ul>
+    <ul class="navbar-nav"  >
+     <li class="nav-item active" >
+       <a class="nav-link" href="index.php" >Home</a>
+     </li>
+     <li class="nav-item">
+       <a class="nav-link" href="resume.php">Resume</a>
+     </li>
+     <li class="nav-item">
+       <a class="nav-link" href="experience.php">Experience</a>
+     </li>
+     <li class="nav-item">
+      <a class="nav-link" href="contact.php">Contact</a>
+    </li>
+   </ul>
       </nav>  
     <ul class="list-group">
         <li class="list-group-item"><b>SKILLS</b></li>

@@ -15,16 +15,16 @@
    
    <ul class="navbar-nav"  >
      <li class="nav-item active" >
-       <a class="nav-link" href="index.html" >Home</a>
+       <a class="nav-link" href="index.php" >Home</a>
      </li>
      <li class="nav-item">
-       <a class="nav-link" href="resume.html">Resume</a>
+       <a class="nav-link" href="resume.php">Resume</a>
      </li>
      <li class="nav-item">
-       <a class="nav-link" href="experience.html">Experience</a>
+       <a class="nav-link" href="experience.php">Experience</a>
      </li>
      <li class="nav-item">
-      <a class="nav-link" href="contact.html">Contact</a>
+      <a class="nav-link" href="contact.php">Contact</a>
     </li>
    </ul>
 
@@ -41,9 +41,9 @@
             
               <h1 class="textsize">Hello,</h1>
               <h4 class="display-6">a bit about me:</h4>
-              <a class="button1" href="resume.html" role="button"  >My Resume</a>
-              <a class="button2" href="experience.html" role="button"  >My Works</a>
-              <a class="button3" href="skills.html" role="button"  >My Skills</a>
+              <a class="button1" href="resume.php" role="button"  >My Resume</a>
+              <a class="button2" href="experience.php" role="button"  >My Works</a>
+              <a class="button3" href="skills.php" role="button"  >My Skills</a>
               <p>ITSM Consultant:Customization of workflows and configuration of ITSM modules and forms.Involved in documenting the business process by analyzing the requirements, prepare impact analysis, design document and interacting with the offshore team and clients.
 Working on tickets, troubleshooting and migrating fix to production.Has exposure in the Design, Deployment, Maintenance and Support of various applications.</p>
                   
